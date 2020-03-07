@@ -1,0 +1,87 @@
+
+
+
+h1{	
+	color: #005883;
+    font-size: 35px;
+	padding: 35px 50px 20px 50px;
+	text-align: center;
+}
+
+
+h2{	
+	color: #000;
+    font-size: 20px;
+	padding:0px 30px 0px 30px;
+	text-align: center;
+}
+
+p{	
+	color: #005883;
+    font-size: 25px;
+	padding: 20px 20px 0px 50px;
+	text-align: left;
+}
+
+h3{	
+	color: #000;
+    font-size: 25px;
+	padding: 0px 0px 0px 70px;
+	text-align: left;
+}
+
+h4{	
+	color: #000;
+    font-size: 20px;
+	padding: 0px 0px 0px 70px;
+	text-align: left;
+}
+
+h5{	
+	color: #000;
+    font-size: 20px;
+	padding: 0px 0px 0px 90px;
+	text-align: left;
+}
+
+ul{	
+	color: #000;
+    font-size: 20px;
+	padding: 0px 0px 0px 110px;
+	text-align: left;
+}
+
+article{
+	font-size: 25px;
+	padding:0px 30px 0px 50px;
+	text-align: justify;
+}
+
+.imagen1{
+	
+	padding: 0px 0px 0px 70px;
+}
+
+.imagen2{
+	
+	padding: 0px 0px 0px 70px;
+}
+
+.imagen3{
+	
+	padding: 0px 0px 0px 70px;
+}
+
+.imagen4{
+	width: 1700px; height: 850px;
+	padding: 0px 0px 0px 70px;
+}
+	
+li{
+	font-size: 25px;
+	padding:0px 30px 0px 50px;
+	text-align: justify;
+}
+ 
+/* HTML5 display-role reset for older browsers */
+
